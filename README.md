@@ -69,7 +69,7 @@ Required columns:
 Clone the repository
 
 ```bash
-git clone https://github.com/HK690/twitter-sentiment-analysis.git
+git clone https://github.com/HK690/Twitter.git
 ```
 
 Move into the project folder
