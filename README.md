@@ -75,7 +75,7 @@ git clone https://github.com/HK690/Twitter.git
 Move into the project folder
 
 ```bash
-cd twitter-sentiment-analysis
+cd Twitter
 ```
 
 Install dependencies
